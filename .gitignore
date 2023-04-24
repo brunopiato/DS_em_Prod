@@ -1,0 +1,9 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore pickl files
+*.pkl
+
+# VSCode Configurations
+.vscode
+
