@@ -7,3 +7,5 @@
 # VSCode Configurations
 .vscode
 
+# Pyenv Versions
+.python-version
